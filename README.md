@@ -1,2 +1,3 @@
-# Hello-Gitverse
-Hello Gitverse! One small step into open source. My Hello World begins here.
+Branching out — literally.
+
+The part of my GitHub Hello World practice.
